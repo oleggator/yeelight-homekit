@@ -1,7 +1,6 @@
 package main
 
 import (
-	// "fmt"
 	"github.com/brutella/hc"
 	"github.com/brutella/hc/accessory"
 	"log"
